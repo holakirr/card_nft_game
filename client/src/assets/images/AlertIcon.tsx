@@ -1,8 +1,8 @@
 import React from 'react'
 
-import styles from '../styles';
+import styles from '../../styles';
 
-const AlertIcon = ({ type }) => {
+const AlertIcon = ({ type }: {type: keyof typeof styles}) => {
   return (
     <svg
         aria-hidden="true"

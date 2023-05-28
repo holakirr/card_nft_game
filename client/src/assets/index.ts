@@ -6,49 +6,49 @@ import panight from './background/panight.jpg';
 import heroImg from './background/hero-img.jpg';
 
 // cards
-import ace from './Ace.png';
-import bakezori from './Bakezori.png';
-import blackSolus from './Black_Solus.png';
-import calligrapher from './Calligrapher.png';
-import chakriAvatar from './Chakri_Avatar.png';
-import coalfist from './Coalfist.png';
-import desolator from './Desolator.png';
-import duskRigger from './Dusk_Rigger.png';
-import flamewreath from './Flamewreath.png';
-import furiosa from './Furiosa.png';
-import geomancer from './Geomancer.png';
-import goreHorn from './Gore_Horn.png';
-import heartseeker from './Heartseeker.png';
-import jadeMonk from './Jade_Monk.png';
-import kaidoExpert from './Kaido_Expert.png';
-import katara from './Katara.png';
-import kiBeholder from './Ki_Beholder.png';
-import kindling from './Kindling.png';
-import lanternFox from './Lantern_Fox.png';
-import mizuchi from './Mizuchi.png';
-import orizuru from './Orizuru.png';
-import scarletViper from './Scarlet_Viper.png';
-import stormKage from './Storm_Kage.png';
-import suzumebachi from './Suzumebachi.png';
-import tuskBoar from './Tusk_Boar.png';
-import twilightFox from './Twilight_Fox.png';
-import voidTalon from './Void_Talon.png';
-import whiplash from './Whiplash.png';
-import widowmaker from './Widowmaker.png';
-import xho from './Xho.png';
+import ace from './images/Ace.png';
+import bakezori from './images/Bakezori.png';
+import blackSolus from './images/Black_Solus.png';
+import calligrapher from './images/Calligrapher.png';
+import chakriAvatar from './images/Chakri_Avatar.png';
+import coalfist from './images/Coalfist.png';
+import desolator from './images/Desolator.png';
+import duskRigger from './images/Dusk_Rigger.png';
+import flamewreath from './images/Flamewreath.png';
+import furiosa from './images/Furiosa.png';
+import geomancer from './images/Geomancer.png';
+import goreHorn from './images/Gore_Horn.png';
+import heartseeker from './images/Heartseeker.png';
+import jadeMonk from './images/Jade_Monk.png';
+import kaidoExpert from './images/Kaido_Expert.png';
+import katara from './images/Katara.png';
+import kiBeholder from './images/Ki_Beholder.png';
+import kindling from './images/Kindling.png';
+import lanternFox from './images/Lantern_Fox.png';
+import mizuchi from './images/Mizuchi.png';
+import orizuru from './images/Orizuru.png';
+import scarletViper from './images/Scarlet_Viper.png';
+import stormKage from './images/Storm_Kage.png';
+import suzumebachi from './images/Suzumebachi.png';
+import tuskBoar from './images/Tusk_Boar.png';
+import twilightFox from './images/Twilight_Fox.png';
+import voidTalon from './images/Void_Talon.png';
+import whiplash from './images/Whiplash.png';
+import widowmaker from './images/Widowmaker.png';
+import xho from './images/Xho.png';
 
 // logo
-import logo from './logo.svg';
+import logo from './images/logo.svg';
 
 // icon
-import attack from './attack.png';
-import defense from './defense.png';
-import alertIcon from './alertIcon.svg';
-import AlertIcon from './AlertIcon.jsx';
+import attack from './images/attack.png';
+import defense from './images/defense.png';
+import alertIcon from './images/alertIcon.svg';
+import AlertIcon from './images/AlertIcon';
 
 // players
-import player01 from './player01.png';
-import player02 from './player02.png';
+import player01 from './images/player01.png';
+import player02 from './images/player02.png';
 
 // sounds
 import attackSound from './sounds/attack.wav';
