@@ -1,0 +1,20 @@
+{
+"compilerOptions": {
+	"allowJs": true,
+	"esModuleInterop": true,
+	"forceConsistentCasingInFileNames": true,
+	"incremental": true,
+	"isolatedModules": true,
+	"jsx": "preserve",
+	"lib": ["dom", "dom.iterable", "ES2015"],
+	"module": "ES2015",
+	"moduleResolution": "node",
+	"noEmit": true,
+	"resolveJsonModule": true,
+	"skipLibCheck": true,
+	"strict": true,
+	"target": "es5",
+},
+"include": ["**/*.ts", "**/*.tsx", "src/assets/index.js"],
+"exclude": ["node_modules"]
+}
