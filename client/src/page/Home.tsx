@@ -1,11 +1,7 @@
 import { PageHOC } from '../components';
 
 const Home = () => {
-	return (
-		<div>
-			<h1 className='text-white text-xl'>Hello from Home</h1>
-		</div>
-	);
+	return <div></div>;
 };
 
 export default PageHOC({
