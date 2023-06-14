@@ -1,3 +1,5 @@
+import styles from '../styles';
+
 interface CustomButtonProps {
 	title: string;
 	handleClick: () => void;
@@ -5,7 +7,11 @@ interface CustomButtonProps {
 }
 
 const CustomButton = ({ title, handleClick, restStyles }: CustomButtonProps) => {
-	return <div>{title}</div>;
+	return (
+		<button onClick={handleClick} className={`${styles.btn} ${restStyles}`}>
+			{title}
+		</button>
+	);
 };
 
 export default CustomButton;
